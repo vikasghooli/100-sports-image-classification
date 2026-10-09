@@ -1,0 +1,12 @@
+
+> sports-classification-frontend@1.0.0 dev
+> vite --host 127.0.0.1
+
+
+  VITE v5.4.21  ready in 351 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+12:57:57 pm [vite] page reload src/types/index.ts
+12:57:57 pm [vite] hmr update /src/index.css, /src/pages/Dashboard.tsx, /src/pages/ModelPerformance.tsx, /src/pages/Analytics.tsx, /src/components/AnalyticsParts.tsx, /src/pages/PredictionDetail.tsx, /src/pages/Sports.tsx, /src/pages/Predict.tsx, /src/pages/History.tsx, /src/pages/Batch.tsx, /src/components/ResultView.tsx
+12:57:59 pm [vite] hmr update /src/pages/Predict.tsx, /src/index.css
+12:57:59 pm [vite] hmr update /src/pages/PredictionDetail.tsx, /src/index.css
